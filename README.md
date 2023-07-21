@@ -3,13 +3,16 @@
 Hello, I'm Aleksandar Bulajic, and I'm passionate about becoming a full-stack software engineer. I have experience and proficiency in a variety of technologies, which allows me to create efficient and innovative solutions for real-world problems.
 
 ## Skills
-Front-end: JavaScript, HTML, CSS, React.js
-Back-end: Node.js, Express, Python, Django
+Front-end: JavaScript, HTML, CSS, React.js,
+
+Back-end: Node.js, Express, Python, Django,
+
 Databases: MongoDB, SQ
 
 
 # Contact
- You can reach me via email at: aleks.bulajic25@gmail.com
+ You can reach me via email at: aleks.bulajic25@gmail.com,
+ 
  linkedin: https://www.linkedin.com/in/aleksandar-bulajic-dev/ 
  
 
