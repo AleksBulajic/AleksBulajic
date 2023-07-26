@@ -7,7 +7,7 @@ Front-end: JavaScript, HTML, CSS, React.js,
 
 Back-end: Node.js, Express, Python, Django,
 
-Databases: MongoDB, SQ
+Databases: MongoDB, SQL
 
 
 # Contact
