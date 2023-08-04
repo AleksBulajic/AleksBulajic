@@ -1,6 +1,7 @@
  # 👋 Welcome to my GitHub Profile!
+ 
 ## About Me
-Hello, I'm Aleksandar Bulajic, and I'm passionate about becoming a full-stack software engineer. I have experience and proficiency in a variety of technologies, which allows me to create efficient and innovative solutions for real-world problems.
+Hello, I'm Aleksandar Bulajic, and I'm a full-stack software engineer. I have experience and proficiency in a variety of technologies, which allows me to create efficient and innovative solutions for real-world problems.
 
 ## Skills
 Front-end: JavaScript, HTML, CSS, React.js,
