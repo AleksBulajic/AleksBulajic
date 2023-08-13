@@ -1,4 +1,4 @@
- # 👋🏼 Welcome to my GitHub Profile! 🏴‍☠️
+ # 👋🏼 Welcome to my Profile! 🏴‍☠️
 <div align="center">
     <img src="https://media.giphy.com/media/BjCWlikTDTN4a8EU0b/giphy.gif" style="width: 100%" />
 </div>
