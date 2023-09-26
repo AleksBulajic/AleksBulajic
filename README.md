@@ -39,4 +39,4 @@ Databases: MongoDB, SQL
 ## Let's Connect!
 I'm always eager to collaborate on exciting projects and learn from fellow developers. Don't hesitate to reach out if you have any interesting ideas or opportunities.
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and follow me for future updates. Happy coding! 😄
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and follow me for future updates. Happy coding! 
