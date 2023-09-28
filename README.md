@@ -2,8 +2,7 @@
 <div align="center">
     <img src="https://media.giphy.com/media/BjCWlikTDTN4a8EU0b/giphy.gif" style="width: 100%" />
 </div>
-<details>
-<summary> More ⬇️ ⬇️ </summary>
+
  
 <h2>About Me</h2> 
 Hello, I'm Aleksandar Bulajic, and I'm a full-stack software engineer. I have experience and proficiency in a variety of technologies, which allows me to create efficient and innovative solutions for real-world problems. 
@@ -42,4 +41,4 @@ I'm always eager to collaborate on exciting projects and learn from fellow devel
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and follow me for future updates. Happy coding! 
 
- </details>
+
