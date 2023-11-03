@@ -13,7 +13,7 @@ Front-end: JavaScript, TypeScript, HTML, CSS, React.js,
 
 Back-end: Node.js, Express, Python, Django,
 
-Databases: MongoDB, SQL
+Databases: MongoDB, PostgreSQL
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
