@@ -32,6 +32,7 @@ Databases: MongoDB, PostgreSQL
 </div>
 
 <h2>Contact</h2> 
+
  You can reach me via email at: aleks.bulajic25@gmail.com,
  
  linkedin: https://www.linkedin.com/in/aleksandar-bulajic-dev/ 
