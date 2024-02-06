@@ -10,7 +10,7 @@ Hello, I'm Aleksandar Bulajic, and I'm a full-stack software engineer. I have ex
 <br>Have a Look at my <a href="https://aleksandar-bulajic.netlify.app/" target="_blank">protfolio</a> 🦊</br> 
 
 <h2>Skills</h2> 
-Front-end: JavaScript, TypeScript, HTML, CSS, React.js,
+Front-end: JavaScript, TypeScript, HTML, CSS, React, Next
 
 Back-end: Node.js, Express, Python, Django,
 
