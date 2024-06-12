@@ -9,9 +9,8 @@
 <h2>About Me</h2> 
 
 
-
-Hello, I'm Aleksandar Bulajic, and I'm a full-stack software engineer. I have experience and proficiency in a variety of technologies, which allows me to create efficient and innovative solutions for real-world problems. 
-<br>Have a Look at my <a href="https://aleksandar-bulajic.netlify.app/" target="_blank">protfolio</a> 🦊</br> 
+Hello, I'm Aleksandar Bulajic, and I'm a full-stack software engineer. I have experience and proficiency in a variety of technologies, which allows me to create efficient and innovative solutions for real-world problems. At the moment, I work as a TA, helping people learn how to code at General Assembly.
+<br>Have a look at my <a href="https://aleksandar-bulajic.netlify.app/" target="_blank">portfolio</a> 🦊</br>
 
 <h2>Skills</h2> 
 Front-end: JavaScript, TypeScript, HTML, CSS, React, Next
